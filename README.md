@@ -3,12 +3,12 @@ A GUI Operating System fit for your needs!
 
 # Features
 
-Notepad, BIOS Terminal-- Calculator, File manager, Device manager, Normal Terminal, Start, Setup Wizard, Shared Files-- And more!
+Notepad, BIOS Terminal-- Calculator, File manager, Device manager, Normal Terminal, Start, Setup Wizard, Shared Files-- And more! (it is in real mode!)
 
 Download now! :)
 
 # Pictures
-You can see them on https://www.reddit.com/r/osdev/comments/1r4r27m/hi_yall_i_made_an_os_hope_you_like_it_its_called/!
+You can see them on https://www.reddit.com/r/osdev/comments/1r4r27m/hi_yall_i_made_an_os_hope_you_like_it_its_called/! 
 
 # Download
 
