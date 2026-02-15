@@ -24,13 +24,8 @@ If you downloaded it to actually install on your computer YAYYYYYYYYYYYYYYYYYYY 
 # Plans
 
 1. Free: Access to all basic features.
-2. Pro: Access to beta releases.
-3. Ultra: Access to see some of the source code
-4. Ultra+: access to all of the source code except app.asm, kernel.asm, and boot.asm
-5. Ultimate: Be able to request anything and there is a high chance that I add it!
-6. Ultimate Max: Be able to release a distrobution of it without any credits
-7. Admin: Be able to see app.asm
-8. HeadAdmin: Be able to see boot.asm and kernel.asm
+2. Plus: Access to some of the source code
+3. Pro: Access to beta releases and more of the source code
 
 
 # Admin and normal ranks
