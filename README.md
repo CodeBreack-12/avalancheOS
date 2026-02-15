@@ -23,21 +23,12 @@ If you downloaded it to actually install on your computer YAYYYYYYYYYYYYYYYYYYY 
 
 # Plans
 
-1. Free: Access to all basic features.
-2. Plus: Access to some of the source code
-3. Pro: Access to beta releases and more of the source code
+coming soon
+stop hating for this section pls
 
 
 # Admin and normal ranks
 
-User
-Mod
-Admim
-HeadAdmin
-Developer
-Sr. Admin
-Sr. Developer
-Overseer
-Management
-Co-Owner
-Owner
+coming soon
+stop hating for this section pls
+
